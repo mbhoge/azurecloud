@@ -1,0 +1,9 @@
+{
+	"name": "datafactorydemomb",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f08e09f9-ddf2-497a-a7b1-46ea71ba66ce",
+		"tenantId": "b41b72d0-4e9f-4c26-8a69-f949f367c91d"
+	}
+}
